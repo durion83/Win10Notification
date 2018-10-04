@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Win10Notification:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Win10Notification_jar</output-path>
+    <root id="archive" name="Win10Notification.jar">
+      <element id="module-output" name="Win10Notification" />
+    </root>
+  </artifact>
+</component>
